@@ -1,5 +1,5 @@
 import "./styles.css";
-import * as productService from "../../services/data";
+
 import Products from "../Products";
 import { ProductDTO } from "../../models/product";
 
