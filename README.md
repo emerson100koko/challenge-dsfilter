@@ -51,7 +51,7 @@ mudanças na listagem. Para isto, mantenha um estado global utilizando a Context
 
 
 # clonar repositório
-git clone https://github.com/challenge-github-api
+git clone https://github.com/emerson100koko/challenge-github-api
 
 # instalar dependências
 yarn install
